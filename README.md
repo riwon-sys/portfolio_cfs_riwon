@@ -61,14 +61,3 @@
 - **중기(3~6개월)**: 원인 7종 집계 → **상위 원인 개선**, 주간 지표표 운영, **온보딩 15분 자료** 초안  
 - **장기(1년~)**: 계절성 반영 연간 카운트 보완, 재발률 지속 하락, **팀캡틴** 지향(역할·권한·교육 체계화)
 
----
-
-## ▶ 설치 & 실행
-```bash
-git clone https://github.com/riwon-sys/portfolio_riwon.git
-cd portfolio_riwon
-
-# 방법 A: index.html 더블클릭
-# 방법 B: 로컬 서버
-# python3 -m http.server 5173
-# http://localhost:5173
